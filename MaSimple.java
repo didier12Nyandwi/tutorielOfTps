@@ -2,6 +2,7 @@ public class MaSimple {
 
 	 public static void main(String[] argv){
   (new A()).saluer();
+		 desole je viens de faire ça !!!!
     }
 }
 
