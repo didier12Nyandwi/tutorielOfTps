@@ -1,6 +1,7 @@
 public class MaSimple {
 
 	 public static void main(String[] argv){
+		 System.out.println("Merci je suis pro de Svn 1 ");
   (new A()).saluer();
 		 desole je viens de faire ça !!!!
     }
